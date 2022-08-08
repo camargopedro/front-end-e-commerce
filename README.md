@@ -1,3 +1,8 @@
+Projeto de e-commerce para o bootcamp santander-DIO no curso de Angular;
+Fiz o projeto seguindo orientação em aula
+Faltou a integração com api
+
+
 # FrontEndECommerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
